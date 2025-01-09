@@ -1,0 +1,139 @@
+{
+  "menu": [
+    {
+      "url": "/",
+      "name": "Inicio",
+      "icon": "menu-icon tf-icons bx bx-home-circle",
+      "slug": "inicio"
+    },
+    {
+      "url": "/Casos",
+      "icon": "menu-icon tf-icons bx bx-library",
+      "name": "Casos 2024",
+      "slug": "casos"
+    },
+    {
+      "url": "/TiposDeHecho",
+      "icon": "menu-icon tf-icons bx bx-book-content",
+      "name": "Tipos de hecho",
+      "slug": "tiposdehecho"
+    },
+    {
+      "url": "/UnidadesPoliciales",
+      "icon": "menu-icon tf-icons bx bx-buildings",
+      "name": "Unidades policiales",
+      "slug": "unidadespoliciales"
+    },
+    {
+      "url": "/Fiscalias",
+      "icon": "menu-icon tf-icons bx bx-receipt",
+      "name": "Fiscalias",
+      "slug": "fiscalias"
+    },
+    {
+      "url": "/IntervencionesPlanimetria",
+      "icon": "menu-icon tf-icons bx bx-add-to-queue",
+      "name": "Intervenciones",
+      "slug": "planimetria"
+    },
+    {
+      "url": "/Inicio_Planimetria",
+      "icon": "menu-icon tf-icons bx bx-home-circle",
+      "name": "Inicio",
+      "slug": "Inicio_Planimetria"
+    },
+    {
+      "url": "/Fotografia",
+      "icon": "menu-icon tf-icons bx bx-home-circle",
+      "name": "Fotografia",
+      "slug": "fotografia"
+    }
+  ],
+  "pericial": [
+    {
+      "url": "/",
+      "name": "Inicio",
+      "icon": "menu-icon tf-icons bx bx-home-circle",
+      "slug": "inicio"
+    },
+    {
+      "url": "/Casos",
+      "icon": "menu-icon tf-icons bx bx-library",
+      "name": "Casos 2025",
+      "slug": "casos"
+    },
+    {
+      "url": "/Casos23",
+      "icon": "menu-icon tf-icons bx bx-cloud",
+      "name": "Casos 2024",
+      "slug": "casos23"
+    }
+  ],
+  "jefePericial": [
+    {
+      "url": "/",
+      "name": "Inicio",
+      "icon": "menu-icon tf-icons bx bx-home-circle",
+      "slug": "inicio"
+    },
+    {
+      "url": "/Casos",
+      "icon": "menu-icon tf-icons bx bx-library",
+      "name": "Casos 2024",
+      "slug": "casos"
+    },
+    {
+      "url": "/Casos23",
+      "icon": "menu-icon tf-icons bx bx-cloud",
+      "name": "Casos 2024",
+      "slug": "casos23"
+    },
+    {
+      "url": "/TiposDeHecho",
+      "icon": "menu-icon tf-icons bx bx-book-content",
+      "name": "Tipos de hecho",
+      "slug": "tiposdehecho"
+    },
+    {
+      "url": "/UnidadesPoliciales",
+      "icon": "menu-icon tf-icons bx bx-buildings",
+      "name": "Unidades policiales",
+      "slug": "unidadespoliciales"
+    },
+    {
+      "url": "/Fiscalias",
+      "icon": "menu-icon tf-icons bx bx-receipt",
+      "name": "Fiscalias",
+      "slug": "fiscalias"
+    }
+  ],
+  "planimetria": [
+    {
+      "url": "/Inicio_Planimetria",
+      "icon": "menu-icon tf-icons bx bx-home-circle",
+      "name": "Inicio",
+      "slug": "Inicio_Planimetria"
+    },
+    {
+      "url": "/IntervencionesPlanimetria",
+      "icon": "menu-icon tf-icons bx bx-add-to-queue",
+      "name": "Intervenciones",
+      "slug": "planimetria"
+    }
+  ],
+  "fotografia": [
+    {
+      "url": "/",
+      "name": "Inicio",
+      "icon": "menu-icon tf-icons bx bx-home-circle",
+      "slug": "inicio"
+    },
+    {
+      "url": "/Fotografia",
+      "icon": "menu-icon tf-icons bx bx-camera",
+      "name": "Fotografia",
+      "slug": "fotografia"
+    }
+  ]
+}
+
